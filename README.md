@@ -1,6 +1,5 @@
-# IPA Made Easy
 <p align="center">
-    Learn IPA easier.
+    #Learn IPA easier.
     <br />
     <br />
     <a href="https://www.youtube.com/">Showcase</a>
