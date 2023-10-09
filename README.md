@@ -10,3 +10,10 @@
     <a href=" ">Discord</a>
   </p>
 </div>
+
+<h2>This is a personal project that is WIP.</h2>
+<p>The project aims to</p>
+<ul>
+    <li>Make you understand the fundamental of linguistics including internationally accepted pronunciation notations known as the International Phonetic Alphabet (IPA) and apply in real life.</li>
+    <li>Let you learn and practice IPA in a more organized way.</li>
+</ul>
