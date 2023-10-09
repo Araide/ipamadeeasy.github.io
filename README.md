@@ -11,7 +11,7 @@
   </p>
 </div>
 
-<h2>This is a personal project that is WIP.</h2>
+<h4>This is a personal project that is WIP.</h4>
 <p>The project aims to</p>
 <ul>
     <li>Make you understand the fundamental of linguistics including internationally accepted pronunciation notations known as the International Phonetic Alphabet (IPA) and apply in real life.</li>
