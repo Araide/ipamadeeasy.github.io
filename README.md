@@ -1,3 +1,4 @@
+<h3 align="center">IPA Made Easy</h3>
 <p align="center">
     <b> Learn IPA easier. </b>
     <br />
