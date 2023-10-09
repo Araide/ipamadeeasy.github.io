@@ -1,5 +1,5 @@
 <p align="center">
-    # Learn IPA easier.
+    <b> Learn IPA easier. </b>
     <br />
     <br />
     <a href="https://www.youtube.com/">Showcase</a>
